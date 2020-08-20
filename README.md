@@ -1,7 +1,7 @@
 # Text-generation-using-LSTM
 Character-level text generation using simple LSTM model in Pytorch
 
-This notebook illustrates a LSTM network to generate new piece of text at character level.
+This notebook illustrates a simple LSTM network to generate new piece of text at character level.
 It is part of Udacity's Computer Vision and Deep learning Nanodegrees.
 
 The model was trained on GPU using Tolstoi's Anne Karenina masterpiece. The model is then able to generate new text based on the text from the book.

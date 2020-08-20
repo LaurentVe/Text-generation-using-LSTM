@@ -15,4 +15,4 @@ I trained a 3-layer model with 1024 hidden diensions for 50 epochs. A simpler mo
 The full dataset (Tolstoi's novel) has a total of nearly 2bn characters which is split between training and validation (10%). The model is fed with batches of size (128, 100) characters. 
 
 ## Results
-![](sample_output.PNG)
+![](assets/sample_output.PNG)

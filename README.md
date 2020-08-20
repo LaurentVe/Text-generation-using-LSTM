@@ -15,6 +15,6 @@ The output is generated character by character. A prime word is given to the tra
 
 ## Results
 
-I trained a 3-layer model with 1024 hidden diensions for 50 epochs. A simpler model version is trained rapidely (2 layers, 512 hidden dimension) and deliver good results.
+I trained a 3-layer model with 1024 hidden diensions for 25 epochs which provides convincing results. A simpler model version can be trained more rapidely (2 layers, 512 hidden dimension) while still delivering good results. Saved weights for the deeper model are available in the repo.
 
 ![](assets/sample_output.PNG)
